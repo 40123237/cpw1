@@ -1,0 +1,12 @@
+print("hello")
+
+
+
+for i in range(5):
+    print(i,"hello")
+
+
+
+for i in range(5):
+
+    print(i,i*"hello")
